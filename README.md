@@ -3,7 +3,7 @@ FAST ALGORITHM FOR THINNING DIGITAL PATTERNS
 
 IMAGE TYPE USED :
 
-This code, used for thinning binary image, is a modification of zhang suen algorithm. Binary image by definition, consists of only black and white pixels. Here, in the code bellow, Black is denoted as 1 and white is denoted as 0.
+This code, used for thinning binary image, is a implementation of zhang suen algorithm. Binary image by definition, consists of only black and white pixels. Here, in the code bellow, Black is denoted as 1 and white is denoted as 0.
 
 IMPLEMENTATION: in C language
 

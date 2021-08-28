@@ -1,4 +1,4 @@
-FAST ALGORITHM FOR THINNING
+FAST ALGORITHM FOR THINNING DIGITAL PATTERNS
 -----------------------------------------
 
 IMAGE TYPE USED :
@@ -18,8 +18,7 @@ in some parculiar cases ,while recognising hand written character the two pixel 
 REFERENCES:
 
 1.Simulation of Zhang Suen Algorithm using FeedForward
-Neural Networks
-http://www.caeaccess.org/research/volume2/number5/luthra-2015-cae-651750.pdf
+Neural Networks http://www.caeaccess.org/research/volume2/number5/luthra-2015-cae-651750.pdf
 2. https://nayefreza.wordpress.com/2013/05/11/zhang-suen-thinning-algorithm-java-implementation/
 3. http://www.engineersgarage.com/articles/image-processing-tutorial-applications
 
